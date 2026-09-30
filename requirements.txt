@@ -1,0 +1,16 @@
+# STRATOSCAN - dependinte Python
+# Instalare: .venv\Scripts\python.exe -m pip install -r requirements.txt
+#
+# Versiunile sunt fixate la ce s-a testat efectiv in acest proiect. Daca
+# instalezi pe alt calculator si o versiune nu mai e disponibila, incearca
+# fara "==X.Y.Z" (pip va lua cea mai noua compatibila).
+
+opencv-python==5.0.0.93
+numpy==2.4.6
+open3d==0.19.0
+record3d==1.4.1
+ultralytics==8.4.125
+lap==0.5.13
+matplotlib==3.11.1
+aiortc==1.15.0
+aiohttp==3.14.3
