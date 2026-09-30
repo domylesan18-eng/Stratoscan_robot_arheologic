@@ -511,7 +511,5 @@ scanarii — nu e un bug, `scaner.py` salveaza automat ce a apucat sa
 acumuleze pana atunci (vezi „Autosave” in
 [Cum functioneaza scanarea](#cum-functioneaza-scanarea-scanerpy)).
 
-**Vreau sa raportez o problema reproductibila.** Noteaza: ce scanare
-(dimensiune mesh, numar de artefacte — vizibile in cardul „Ultima scanare”
-sau in titlul panoului vizualizatorului), ce actiune exacta ai facut, si daca
-a aparut vreun mesaj in bara de stare sau in consola din spatele ferestrei.
+**Site prezentare robot**
+https://stratoscan.netlify.app/
